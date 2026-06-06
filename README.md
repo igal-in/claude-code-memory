@@ -1,4 +1,3 @@
-# claude-code-memory
 # Claude Code Memory — stop re-explaining your project every session
 
 A tiny, free protocol that gives **Claude Code** session-to-session memory using a
